@@ -1,7 +1,1 @@
-git trial
-
-wish the tutorial included more examples
-
-git try 1 - not staged
-
-git try 2 - staging
+Here are the steps to stage, commit, and push changes 
