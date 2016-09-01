@@ -7,3 +7,5 @@ Here are the steps to stage, commit, and push changes:
 
 $git stauts
 check the status
+
+change the default text editor
