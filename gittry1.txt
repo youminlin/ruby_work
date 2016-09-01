@@ -1,1 +1,5 @@
 git trial
+
+wish the tutorial included more examples
+
+git try 1 - not staged
