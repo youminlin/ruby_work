@@ -1,1 +1,9 @@
-Here are the steps to stage, commit, and push changes 
+Here are the steps to stage, commit, and push changes:
+
+[1] git add .
+(or git add file_name)
+[2] git commit filne_name -m 'message'
+[3] git push origin master
+
+$git stauts
+check the status
